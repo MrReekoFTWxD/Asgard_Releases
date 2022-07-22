@@ -6,6 +6,9 @@ Black Ops 3 Zombies Menu
   + sprx should work on hen, i just didnt make eboots for it
   + SPRX is required! (including for clients if giving them access to the menu)
   
+#Note
+Dynamic string buffer is very small on last gen, with the sprx i increased it to 0x8000 but giving someone access to the menu once they exceed the original size it will kick them from the game
+  
 https://www.youtube.com/watch?v=jZ1xMfuSnJ8
 
 ![alt text](preview.png)
