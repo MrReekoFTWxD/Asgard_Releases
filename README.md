@@ -3,6 +3,7 @@
 Black Ops 3 Zombies Menu
   + GSC Injector for Zombies and Multiplayer
   + Inject over _clientids.gsc and _duplicaterender_mgr.gsc
+  + sprx should work on hen, i just didnt make eboots for it
 
 The Jiggy_4_2.gsc is a Multiplayer gsc inject it with scripts/mp/gametypes/_clientids.gsc
 
